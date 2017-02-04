@@ -96,7 +96,7 @@ In this same file I also have to and an alias.
 
 Now the Socialite package is added to the application and is ready for use.
 
-## Create Facebook App ## 
+## Create Facebook App 
 For the login functionality of Facebook, I need to create a Facebook App. To create this app I need to be a Facebook Developer. By following these steps you can easily become a Facebook developer(http://www.wikihow.com/Become-a-Facebook-Developer).
 
 To create a Facebook App I go to the Facebook developers page(developers.facebook.com). In the right top of the page, I can create an app by clicking on `Add a New App`. The next step is to fill in a name for the app and select a category.
@@ -342,6 +342,7 @@ Now the application is ready! When I click on FB Login on the login screen I can
 ## Sources ##
 
 [Larvel 5.3 documentation](https://laravel.com/docs/5.3/installation) 
+
 [Socialite documentation](https://github.com/laravel/socialite)
 
 
